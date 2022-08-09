@@ -1,0 +1,26 @@
+.PaginationContainer{
+    display: flex;
+    list-style:none;
+}
+
+.PaginationPage{
+    padding: 10px;
+}
+
+
+.PaginationPage:hover{
+    background-color: rgb(200, 200, 200);
+}
+
+
+
+.PaginationPreviousNext{
+    margin-top: 10px;
+    text-decoration: none;
+
+}
+.PaginationPreviousNext:focus:hover:link:visited{
+    text-decoration: none;
+}
+
+
